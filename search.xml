@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>个人面试总结</title>
+      <link href="/2019/12/31/Summary-of-personal-interview/"/>
+      <url>/2019/12/31/Summary-of-personal-interview/</url>
+      
+        <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>　　眨眼<code>9102</code>马上就要过去了，即将引来<code>0202</code>年。想起有一段时间没有更新个人博客了，这次就稍微复盘一下前些日子的笔试题目及技术面（ps:因靠个人回忆，题目次序有点乱）。</p><h2 id="关于笔试"><a href="#关于笔试" class="headerlink" title="关于笔试"></a>关于笔试</h2><p>　　1.<code>typeof NaN</code>以及<code>typeof null</code>分别输出什么。<br>　　2.写一个能识别具体准确类型的方法。<br>　　3.简述<code>prototype</code>的作用以及写一个自己常用的<code>prototype</code>写法。<br>　　4.对ES6的特性进行简述。<br>　　5.用<code>CSS</code>实现一个无限上下跳动的动画。<br>　　6.用flex实现左中右布局（<code>left:main:right=1:2:1</code>）及其内容水平与垂直居中。<br>　　7.有一个空的<code>&lt;div&gt;&lt;/div&gt;</code>，在页面输出红色的<code>hello</code>字符串。<br>　　8.打印<code>1-100</code>，遇到能被3整除的输出<code>*</code>，遇到能被5整除的输出<code>$</code>，遇到同时能被3和5整除的输出<code>@</code>。<br>　　9.用<code>JavaScript</code>实现任意一种排序算法（合并排序，快速排序，插入排序，冒泡排序等）。<br>　　10.简述一下<code>promise</code>与<code>ajax</code>的区别。<br>　　11.浏览器所在窗口页面中一次只能加载<code>12</code>张图片，怎么才能加载<code>10万</code>张图片呢（有点记不清题目，大概是这个意思）？<br>　　12.选一个现流行框架，简述其解决了什么问题及其实现原理。</p><h2 id="关于面试"><a href="#关于面试" class="headerlink" title="关于面试"></a>关于面试</h2><p>　　1.介绍一下你自己<br>　　2.用<code>promise</code>多不多，说一下对<code>promise</code>的理解。<br>　　3.说一下对异步的理解，异步的场景有哪些。<br>　　4.<code>vue</code>文档完完整整的看过多少遍，了解过<code>vue</code>的源码吗。<br>　　5.说一下<code>MVP</code>、<code>MVC</code>、<code>MVVM</code>三种模式的区别，有哪些框架是属于这三种模式。<br>　　6.关于性能优化，你在哪些方面用到过。<br>　　7.说一下你在项目过程中遇到的难点，你是怎么解决的。<br>　　8.你对我们公司有了解吗，用过我们公司的哪些产品。<br>　　9.你还有什么想要问想要了解的吗。</p><h2 id="小结"><a href="#小结" class="headerlink" title="小结"></a>小结</h2><p>　　小子不才，表现得有点差强人意，总的来说还是有许多待改进的地方，承蒙两位大佬看得起，非常感谢。另外需要注意的就是，<code>HR</code>真的很厉害，特别是参股的！<br>　　马上就要迎来<code>0202</code>年了，祝大家每一年都奔走在自己的热爱里~年年皆胜意，岁岁都欢愉！</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> JavaScript </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Ajax原理简单总结</title>
       <link href="/2019/11/07/A-brief-Summary-of-the-principle-of-Ajax/"/>
       <url>/2019/11/07/A-brief-Summary-of-the-principle-of-Ajax/</url>
